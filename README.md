@@ -11,4 +11,14 @@ all learning note, no script
 ## Python Cookbook 3rd
 - book [google](https://google.com)
 - [learning note](https://www.dropbox.com/s/qt3kby1ekjjg2dp/PyCooknote.pdf?dl=0)
-- [part implemtation](https://github.com/xshii/cookbook)
+- [part implementation](https://github.com/xshii/cookbook)
+
+## Django
+- [web](https://docs.djangoproject.com/en/1.11/)
+- [learning note](https://www.dropbox.com/s/4w1qp1y77apoagp/django_note.pdf?dl=0)
+- [part implementation](https://github.com/xshii/webApp)
+
+## Machine Learning with Scikit-learn and Tensorflow
+- book [google](https://google.com)
+- learning note
+- 
