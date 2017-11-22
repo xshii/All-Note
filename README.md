@@ -15,7 +15,7 @@ all learning note, no script
 
 ## Machine Learning with Scikit-learn and Tensorflow
 - book [google](https://google.com)
-- [learning note](https://www.dropbox.com/s/56ps3fo0qke3wt6/mlScikitTensorflownote.pdf?dl=0)
+- [learning note](https://github.com/xshii/mlScikitTensorflow) change to Jupyter notebook because it can generate table of contents now
 - [implementation](https://github.com/xshii/mlScikitTensorflow)
 - [API](https://www.dropbox.com/s/1y88gnb6f23n4ah/ScikitApi.xlsx?dl=0)
 
