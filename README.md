@@ -17,6 +17,7 @@ all learning note, no script
 - book [google](https://google.com)
 - [learning note](https://www.dropbox.com/s/56ps3fo0qke3wt6/mlScikitTensorflownote.pdf?dl=0)
 - [implementation](https://github.com/xshii/mlScikitTensorflow)
+- [API](https://www.dropbox.com/s/1y88gnb6f23n4ah/ScikitApi.xlsx?dl=0)
 
 ## Django (only a breif intro)
 - [web](https://docs.djangoproject.com/en/1.11/)
