@@ -13,12 +13,13 @@ all learning note, no script
 - [learning note](https://www.dropbox.com/s/qt3kby1ekjjg2dp/PyCooknote.pdf?dl=0)
 - [part implementation](https://github.com/xshii/cookbook)
 
-## Django
+## Machine Learning with Scikit-learn and Tensorflow
+- book [google](https://google.com)
+- [learning note](https://www.dropbox.com/s/56ps3fo0qke3wt6/mlScikitTensorflownote.pdf?dl=0)
+- [implementation](https://github.com/xshii/mlScikitTensorflow)
+
+## Django (only a breif intro)
 - [web](https://docs.djangoproject.com/en/1.11/)
 - [learning note](https://www.dropbox.com/s/4w1qp1y77apoagp/django_note.pdf?dl=0)
 - [part implementation](https://github.com/xshii/webApp)
 
-## Machine Learning with Scikit-learn and Tensorflow
-- book [google](https://google.com)
-- learning note
-- 
