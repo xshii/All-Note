@@ -8,10 +8,12 @@ all learning note, no script
 - [learning note](https://www.dropbox.com/s/ssn1idb3c41hth0/ISLRnote.pdf?dl=0)
 - [implementation git resp](https://github.com/xshii/ISLRInPython) --> a machine learning system
 
-## Python Cookbook 3rd
-- book [google](https://google.com)
-- [learning note](https://www.dropbox.com/s/qt3kby1ekjjg2dp/PyCooknote.pdf?dl=0)
-- [part implementation](https://github.com/xshii/cookbook)
+## Python
+- Python Cookbook 3
+  - book [google](https://google.com)
+  - [learning note](https://www.dropbox.com/s/qt3kby1ekjjg2dp/PyCooknote.pdf?dl=0)
+  - [part implementation](https://github.com/xshii/cookbook)
+- [practical python](https://github.com/xshii/PracticalPy)
 
 ## Machine Learning with Scikit-learn and Tensorflow
 - book [google](https://google.com)
