@@ -25,6 +25,6 @@ all learning note, no script
 - [part implementation](https://github.com/xshii/webApp)
 
 ## iOS & Swift ()
-- [cs193p learning note](https://github.com/xshii/iOSNote)
+- [iOS dev cs193p learning note](https://github.com/xshii/iOSNote)
 - [Swift learning note](https://github.com/xshii/SwiftNote/tree/master/swift)
 - [non-demo practice](https://github.com/xshii/TagCounter)
