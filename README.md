@@ -1,4 +1,4 @@
-# all_note
+# All-Note
 all learning note, no script
 ## Mathematical Fundation
 - [linear regression learning note](https://www.dropbox.com/s/hc6361o716xmbq4/LinearRegresion.pdf?dl=0) (part in Chinese *GLM,ANOVA,MIXED*)
@@ -24,3 +24,7 @@ all learning note, no script
 - [learning note](https://www.dropbox.com/s/4w1qp1y77apoagp/django_note.pdf?dl=0)
 - [part implementation](https://github.com/xshii/webApp)
 
+## iOS & Swift ()
+- [cs193p learning note](https://github.com/xshii/iOSNote)
+- [Swift learning note](https://github.com/xshii/SwiftNote/tree/master/swift)
+- [non-demo practice](https://github.com/xshii/TagCounter)
